@@ -70,7 +70,7 @@ The dataset used (`creditcard.csv`) contains transactions made by European cardh
 - Python
 - scikit-learn
 - Pandas / NumPy
-- Flask (web app)
+- Streamlit (web app)
 - Jupyter Notebook (model development)
 
 ## 📌 Future Improvements
@@ -78,9 +78,6 @@ The dataset used (`creditcard.csv`) contains transactions made by European cardh
 - Add model explainability (e.g. SHAP values)
 - Experiment with ensemble/boosting models for improved recall on fraud cases
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
