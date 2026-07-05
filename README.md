@@ -76,8 +76,6 @@ The dataset used (`creditcard.csv`) contains transactions made by European cardh
 ## 📌 Future Improvements
 
 - Add model explainability (e.g. SHAP values)
-- Deploy the app to a cloud platform (Render, Railway, AWS, etc.)
-- Add automated tests and CI/CD pipeline
 - Experiment with ensemble/boosting models for improved recall on fraud cases
 
 ## 📄 License
